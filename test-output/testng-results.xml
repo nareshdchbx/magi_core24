@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16282" started-at="2016-02-08T20:32:32Z" finished-at="2016-02-08T20:32:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16282" started-at="2016-02-08T20:32:32Z" finished-at="2016-02-08T20:32:49Z">
+      <class name="TestSuite.BfGfVtChildren_GfHavingMEC">
+        <test-method status="PASS" signature="bsateup()[pri:0, instance:TestSuite.BfGfVtChildren_GfHavingMEC@3930015a]" name="bsateup" is-config="true" duration-ms="7525" started-at="2016-02-08T15:32:34Z" finished-at="2016-02-08T15:32:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsateup -->
+        <test-method status="PASS" signature="BfGfVtChildren_GfHavingMEC1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestSuite.BfGfVtChildren_GfHavingMEC@3930015a]" name="BfGfVtChildren_GfHavingMEC1" duration-ms="7433" started-at="2016-02-08T15:32:41Z" data-provider="testcase" finished-at="2016-02-08T15:32:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[district of columbia]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[35]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[50713.56]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[35]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[40567.67]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BfGfVtChildren_GfHavingMEC1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestSuite.BfGfVtChildren_GfHavingMEC@3930015a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-02-08T15:32:49Z" finished-at="2016-02-08T15:32:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestSuite.BfGfVtChildren_GfHavingMEC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
